@@ -1,0 +1,431 @@
+
+
+
+.kartinka-image{    
+width:50%;
+position: absolute;
+top:13%;
+right: 3%;
+}
+.volna-image{
+   width:20%;
+   top:9%;
+   position: absolute;
+   top:47%;
+   right: 68%;  
+}
+.order{
+  top:70%;
+  left:15%;
+  position: absolute;
+display: inline-block;
+padding: 1% 4%;
+background-color: rgb(147, 109, 235);
+color: rgb(255, 255, 255);
+text-decoration: none;
+border-radius: 5%;
+font-size: 2vw;
+transition: background-color 0.10 ease;
+}.order:hover{
+   background-color: #856d83;
+ }
+ .order2{
+   top:57%;
+   left:10%;
+   width: 15%;
+   position: absolute;
+ display: inline-block;
+ padding: 1% 4%;
+ background-color: rgb(147, 109, 235);
+ color: rgb(255, 255, 255);
+ text-decoration: none;
+ border-radius: 5%;
+ font-size: 2vw;
+ transition: background-color 0.10 ease;
+ }.order:hover{
+    background-color: #856d83;
+  }
+.order a{
+color:rgb(255, 255, 185);
+  }
+  .order2 a{
+   color:rgb(255, 255, 185);
+     }
+h1{
+font-size:4vw;
+font-family: "Protest Strike", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+position: absolute;
+color: #482752;
+text-indent:8%;
+right:37%;
+top:20%;
+}
+.liza2{
+   width:50%;
+   top:9%;
+   position: absolute;
+   z-index: -1;
+   top:47%;
+   right: 68%;
+}
+.liza3{
+   width:50%;
+   top:9%;
+   z-index: -1;
+   position: absolute;
+   top:-50%;
+   right: -15%;
+}
+.liza4{
+   width:50%;
+   top:120%;
+   position: absolute;
+   right: 25%;
+}
+.liza5{
+   width:50%;
+   top:230%;
+   position: absolute;
+   right: 25%;
+}
+.liza6{
+   width:50%;
+   top:330%;
+   position: absolute;
+   right: 25%;
+}
+.liza7{
+   width:50%;
+   top:430%;
+   position: absolute;
+   right: 25%;
+}
+.polosaa-image{
+    width:100%;
+    position: absolute;
+ top: 100%;
+ height: 40%;
+ left: 0%;
+}
+.krug-image{
+   width:7%;
+   position: absolute;
+   right: 10%;  
+   top:102%; 
+}
+.krug1-image{
+   width:7%;
+   position: absolute;
+   right: 40%;  
+   top:102%; 
+}
+.krug2-image{
+   width:7%;
+   position: absolute;
+   right: 65%;  
+   top:102%; 
+}
+.krug3-image{
+   width:7%;
+   position: absolute;
+   right: 86%;  
+   top:102%; 
+}
+.anchor-links a{
+      margin-left: 13%;
+      font-size: 2vw;
+      color: purple;
+}
+
+h2{
+   font-size: 2.5vw; 
+   top:115%;
+   position: absolute;
+   left:7%;
+}
+h3{
+    font-size: 2.5vw; 
+    top:113%;
+    position: absolute;
+    left:27%;
+ }
+ h5{
+    font-size: 2.5vw; 
+    top:109%;
+    position: absolute;
+    left:50%;
+ }
+ h6{
+    font-size: 2.5vw; 
+    top:106%;
+    position: absolute;
+    left:80%;
+ }
+ h7{
+    font-size: 4vw; 
+    top:160%;
+    position: absolute;
+    font-weight: 900;
+    left:37%;
+    color: #482752;
+ }
+ .kniga-image{
+    width:20%;
+    position: absolute;
+    right: 7%; 
+    display: inline-block; 
+    top:180%;}
+h22{
+   font-size: 2vw; 
+   top:248%;
+   position: absolute;
+   right:8%; 
+}
+    .kniga-image {
+      transition: 1s; 
+      display: block; 
+    }
+    .kniga-image:hover {
+      transform: scale(1.2); 
+    }
+ .kniga1-image{
+    width:20%;
+    position: absolute;
+    right: 40%;  
+    top:180%;
+ }
+ .kniga1-image {
+   transition: 1s; 
+   display: block; 
+ }
+ .kniga1-image:hover {
+   transform: scale(1.2); 
+ }
+ .kniga2-image{
+    width:21%;
+    position: absolute;
+    right: 73%;  
+    top:180%;
+ }
+ h21{
+   font-size: 2vw; 
+   top:248%;
+   position: absolute;
+   right:42%;
+ }
+ h20{
+   font-size: 2vw; 
+   top:248%;
+   position: absolute;
+   right:77%;
+ }
+ .kniga2-image {
+   transition: 1s; 
+   display: block; 
+ }
+ .kniga2-image:hover {
+   transform: scale(1.2); 
+ }
+ h8{
+    font-size: 4vw; 
+    top:265%;
+    position: absolute;
+    font-weight: 900;
+    left:33%;
+    color: #482752;
+ }
+ .bisness-image{
+    width:21%;
+    position: absolute;
+    right: 73%;  
+    top:290%;  
+ }
+ h24{
+   font-size: 2vw; 
+   top:350%;
+   position: absolute;
+   right:78%;
+ }
+ h25{
+   font-size: 2vw; 
+   top:350%;
+   position: absolute;
+   right:39%;
+ }
+ h26{
+   font-size: 2vw; 
+   top:350%;
+   position: absolute;
+   right:8%;
+ }
+ h27{
+   font-size: 2vw; 
+   top:450%;
+   position: absolute;
+   right:8%;
+ }
+ h28{
+   font-size: 2vw; 
+   top:450%;
+   position: absolute;
+   right:41%;
+ }
+ h29{
+   font-size: 2vw; 
+   top:450%;
+   position: absolute;
+   right:73%;
+ }
+ .bisness-image {
+   transition: 1s; 
+   display: block; 
+ }
+ .bisness-image:hover {
+   transform: scale(1.2); 
+ }
+ .kniga5-image{
+   width:21%;
+    position: absolute;
+    right: 40%;  
+    top:290%;  
+ }
+ .kniga5-image {
+   transition: 1s; 
+   display: block; 
+ }
+ .kniga5-image:hover {
+   transform: scale(1.2); 
+ }
+ .kniga6-image{
+   width:21%;
+    position: absolute;
+    right: 7%;  
+    top:290%; 
+ }
+ 
+ .kniga6-image {
+   transition: 1s; 
+   display: block; 
+ }
+ .kniga6-image:hover {
+   transform: scale(1.2); 
+ }
+ h9{
+   font-size: 4vw; 
+   animation: pulse 1s infinite;
+   top:370%;
+   position: absolute;
+   font-weight: 900;
+   left:40%;
+   color: #482752;
+}
+.AUDIOK-image{
+   width:21%;
+   position: absolute;
+   right: 7%;  
+   top:390%; 
+}
+.AUDIOK-image {
+   transition: 1s; 
+   display: block; 
+ }
+ .AUDIOK-image:hover {
+   transform: scale(1.2); 
+ }
+.AUDIOK1-image{
+   width:21%;
+   position: absolute;
+   right: 40%;  
+   top:390%; }
+   .AUDIOK1-image {
+      transition: 1s; 
+      display: block; 
+    }
+    .AUDIOK1-image:hover {
+      transform: scale(1.2); 
+    }
+.AUDIOK2-image{
+   width:21%;
+   position: absolute;
+   right: 73%;  
+   top:390%; 
+}
+.AUDIOK2-image {
+   transition: 1s; 
+   display: block; 
+ }
+ .AUDIOK2-image:hover {
+   transform: scale(1.2); 
+ }
+.polosa2-image{
+   width:100%;
+   position: absolute;
+   right: 0%;  
+   top:500%; 
+}
+.liza-image{
+   width:50%;
+   position: absolute;
+   right: -20%;  
+   top:240%; 
+}
+h10{
+   font-size: 4vw; 
+   top:480%;
+   position: absolute;
+   font-weight: 900;
+   left:35%;
+   color: #482752;
+}
+h11{
+   font-size: 1vw; 
+   top:510%;
+   position: absolute;
+   left:2.8%;
+   font-weight: 900;
+   font-style: normal;
+}
+h30{
+   font-size: 3vw; 
+   animation: pulse 1s infinite;
+   top:570%;
+   position: absolute;
+   font-weight: 900;
+   left:10%;
+   color: #482752;
+}
+h31{
+   font-size: 1.5vw; 
+   animation: pulse 1s infinite;
+   top:580%;
+   position: absolute;
+   font-weight: 900;
+   left:10%;
+   color: #482752;
+}
+h32{
+   font-size: 1.5vw; 
+   animation: pulse 1s infinite;
+   top:585%;
+   position: absolute;
+   font-weight: 900;
+   left:10%;
+   color: #482752;
+}
+h33{
+   font-size: 1.5vw; 
+   animation: pulse 1s infinite;
+   top:590%;
+   position: absolute;
+   font-weight: 900;
+   left:10%;
+   color: #482752;
+}
+.znaz-image{
+   top:580%;
+   position: absolute;
+   width: 20%;
+   left: 6%;
+}
